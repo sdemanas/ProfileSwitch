@@ -7,6 +7,8 @@ I wanted to create something more native, but it seems Firefox has caught up to 
 This feature is already a part of Firefox Nightly it seems and will be implemented soon 
 in the stable version of the app.
 
+https://connect.mozilla.org/t5/discussions/try-out-firefox-profiles-in-nightly/m-p/84223
+
 So I will stall my efforts on this for the time being.
 
 # ProfileSwitch
